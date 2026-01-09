@@ -1,0 +1,6 @@
+The Student Result Management System is a console-based C++ application developed to 
+manage student academic records efficiently. 
+It allows users to add, update, search, delete, and store student data, calculate results 
+automatically, and generate class reports. 
+This project demonstrates the practical use of structures, arrays, file handling, functions, 
+and control statements in C++. 
